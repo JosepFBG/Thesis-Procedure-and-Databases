@@ -18,7 +18,7 @@ Part_6_IDW_and_Assumptions_Check.R
 Part_7_SACD.R
 Part_8_Divergence_Measurement.R
 ```
-
+It is important to first open the Git Project file! Otherwise the files will not work.
 ## Required input files
 
 The code expects the required raw data files to be available in the working directory. These include, among others:
